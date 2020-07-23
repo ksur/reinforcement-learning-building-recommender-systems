@@ -2,7 +2,7 @@
 
 ![Powered by Jupyter Logo](https://cdn.oreillystatic.com/images/icons/powered_by_jupyter.png)
 
-This project contains the Jupyter Notebooks and the associated Dockerfile for Matthew Kirk's _Reinforcement Learning: Building Recommender Systems_. It contains both the exercises (/notebooks) and the solutions (/solutions), as well as any data or files needed (/data).
+This project contains the Jupyter Notebooks for Matthew Kirk's _Reinforcement Learning: Building Recommender Systems_. It contains both the exercises (/notebooks) and the solutions (/solutions), as well as any data or files needed (/data).
 
 The notebooks can be run [here](https://learning.oreilly.com/jupyter-notebooks/~/9781492063698).
 
