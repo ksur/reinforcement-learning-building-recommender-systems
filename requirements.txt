@@ -2,7 +2,6 @@
 seaborn
 catboost
 keras
-#reco-gym
 pandas
 numpy
 matplotlib
