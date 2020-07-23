@@ -1,5 +1,6 @@
 ## Please list additional packages with version numbers
 seaborn
+catboost
 keras
 #reco-gym
 pandas
